@@ -19,7 +19,7 @@ const CallingApi = () => {
     
   return (
     <div>
-        <h1>{data}</h1>
+        <h1 className="text-center mt-5 text-2xl text-blue-900 capitalize p-4 ">{data}</h1>
     </div>
   )
 
